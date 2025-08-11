@@ -2,6 +2,7 @@
   <div class="dashboard-container">
     <!-- Dashboard Header -->
     <div class="dashboard-header">
+      
       <h1>Welcome to K-Trade Securities Dashboard 🎉</h1>
       <Button label="Logout" @click="logout" severity="danger" class="logout-btn" />
     </div>
