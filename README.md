@@ -33,4 +33,4 @@ A frontend-only trading alerts dashboard built with **Vue.js**, showcasing respo
 ## 📧 Contact
 
 Reach me at: [zainsaleem1415@gmail.com](mailto:zainsaleem1415@gmail.com)  
-is it ok
+
