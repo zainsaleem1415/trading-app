@@ -1,4 +1,4 @@
-#  Trading Alerts Dashboard
+#  Trading Alerts App
 
 A frontend-only trading alerts dashboard built with **Vue.js**, showcasing responsive UI and interactive alert management. Backend integration will be added in the future.
 
