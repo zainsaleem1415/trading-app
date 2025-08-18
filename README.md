@@ -1,5 +1,36 @@
-# Vue 3 + Vite
+#  Trading Alerts Dashboard
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A frontend-only trading alerts dashboard built with **Vue.js**, showcasing responsive UI and interactive alert management. Backend integration will be added in the future.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+---
+
+## 🔑 Key Features
+
+- Sign-up & Sign-in pages (frontend only)  
+- Dashboard to view and manage trading alerts  
+- Dialog box with inputs: Buying Price, Current Price, Stop Loss, TP1, TP2, TP3  
+- Options to **Save Alert** or **Cancel**  
+- Fully responsive UI, state management with Vue  
+
+---
+
+## ⚡ Tech Stack
+
+- **Frontend:** Vue.js  
+- **Styling:** CSS  
+- **State Management: Vuex + reactive Vue state
+
+---
+
+## 📂 Future Plans
+
+- Backend integration for authentication & alerts storage  
+- Real-time price updates with APIs  
+- Interactive charts & analytics  
+
+---
+
+## 📧 Contact
+
+Reach me at: [zainsaleem1415@gmail.com](mailto:zainsaleem1415@gmail.com)  
+is it ok
